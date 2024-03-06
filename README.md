@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is congom </h1>
+<h1 align="center">Hi! My name is Congom </h1>
 <p align="center"> </p>
 
 
